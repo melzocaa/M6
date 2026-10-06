@@ -11,6 +11,6 @@ function safeParse(jsonString) {
   }
 }
 
-console.log(safeParse('{"nome": "Leandromeda"}'));
+console.log(safeParse('{"nome": "Melzoca"}'));
 console.log(safeParse("texto inválido"));
 // null
